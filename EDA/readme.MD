@@ -37,8 +37,8 @@ A multi-agent data analysis system powered by [Google Gemini](https://ai.google)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/agentic-eda-gemini.git
-cd agentic-eda-gemini
+git clone https://github.com/sany2407/Agentic-Workshop.git
+cd EDA
 ```
 
 ### 2. Create and Activate Virtual Environment
